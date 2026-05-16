@@ -11,7 +11,7 @@ The first attempt was a [[src/reference.rs][reference]] implementation done on t
 this was ported over to a [[src/shader.wgsl][wgsl shader]] to utilize the gpu in wgpu
 within egui.
 
-The only supported target is wasm which allows it to [[dist/index.html][run in the browser]].
+The only supported target is wasm which allows it to [[https://nowl.github.io/mandelbulb-web/][run in the browser]].
 
 To build from source:
 #+begin_src bash
